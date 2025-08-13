@@ -1,7 +1,7 @@
 # 🎮 Juegos Clásicos en Python
 
 Bienvenido/a a mi colección de **juegos clásicos recreados en Python** 🐍  
-En este repositorio estaré subiendo implementaciones de videojuegos retro, usando librerías como **turtle** y aplicando **Programación Orientada a Objetos (OOP)**.  
+En este repositorio estaré subiendo implementaciones de videojuegos retro, usando librerías como **turtle**, **Pygames** y aplicando **Programación Orientada a Objetos (OOP)**.  
 La meta es **aprender, practicar y divertirse** recreando juegos que marcaron época.  
 
 ---
