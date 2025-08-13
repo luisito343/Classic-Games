@@ -1,0 +1,12 @@
+WIDTH, HEIGHT = 800, 400
+BG_COLOR = "black"
+TITLE = "Pong — pantalla"
+BG_COLOR = "black"
+PADDLE_SPEED = 20        # px por tecla
+PADDLE_SIZE = (5, 1)     # stretch_wid, stretch_len (turtle)
+PADDLE_OFFSET = 350      # distancia al centro
+BALL_SPEED_INIT = 5
+BALL_SPEED_MAX = 18
+BALL_SPEED_STEP = 0.6    # acelera tras cada golpe
+FPS = 60
+FONT = ("Courier", 24, "bold")
