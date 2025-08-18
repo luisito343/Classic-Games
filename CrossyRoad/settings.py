@@ -1,0 +1,11 @@
+WIDTH, HEIGHT = 800, 400
+BG_COLOR = "black"
+TITLE = "Turtle-Crossing"
+BG_COLOR = "black"
+PLAYER_SPEED = 20
+CAR_SPEED_INIT = 20
+CAR_SPEED_MAX = 18
+CAR_SPEED_STEP = 0.6  
+GRID = 20
+FPS = 60
+FONT = ("Courier", 24, "bold")
